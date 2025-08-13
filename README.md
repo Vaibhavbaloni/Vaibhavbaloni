@@ -14,15 +14,9 @@
 
 I'm **Vaibhav Baloni**, a passionate B.Tech CSE student from Graphic Era Hill University, currently diving deep into AI, ML, and Data Analysis. I like solving real-world problems through code, leading innovative projects, and collaborating with brilliant minds.
 
-- 🔭 Currently Working On:  <!--
-  &nbsp;&nbsp;&nbsp;&nbsp;• *CampusNav AI – A Smart Campus Navigation System*  
-  &nbsp;&nbsp;&nbsp;&nbsp;• *AI-Powered Expense Tracker*  
-  &nbsp;&nbsp;&nbsp;&nbsp;• *Water Quality Prediction* (AICTE Internship)
-
+<!--
+- 🔭 Currently Working On:  
 - 🌱 Currently Learning:  
-  &nbsp;&nbsp;&nbsp;&nbsp;• AI/ML, Data Structures & Algorithms  
-  &nbsp;&nbsp;&nbsp;&nbsp;• Java, Python, C  
-  &nbsp;&nbsp;&nbsp;&nbsp;• React, Firebase, Git & GitHub
 -->
 - 💬 Ask Me About:  
   AI Projects, Problem Solving, Full-Stack Dev, ChatGPT Integrations
@@ -48,11 +42,12 @@ I'm **Vaibhav Baloni**, a passionate B.Tech CSE student from Graphic Era Hill Un
 </p>
 
 ---
-
+<!--
 ## 🏆 Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](idhar leetcode ID DAALNA)  
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](idhar hacker rank)
+-->
 
 ---
 
